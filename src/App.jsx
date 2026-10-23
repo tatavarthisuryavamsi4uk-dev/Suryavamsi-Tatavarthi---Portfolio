@@ -125,7 +125,8 @@ function App() {
               <a
                 href="https://www.linkedin.com/in/tatavarthi-suryavamsi-ab652018b/"
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
+                aria-label="Visit my LinkedIn profile"
               >
                 LinkedIn ↗
               </a>
